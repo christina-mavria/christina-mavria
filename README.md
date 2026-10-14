@@ -15,6 +15,10 @@ Most recently, I worked as a **Junior Business Analyst at Archtexx Consulting**,
 - **Data & research platforms:** TP Catalyst, D&B Hoovers, EMIS
 - **AI:** Claude for drafting, prompting, and data analysis support
 
+## Projects
+
+- [US Macro VAR](https://github.com/christina-mavria/us-macro-var-gretl): a VAR model of US GDP growth, inflation, and unemployment in Gretl, with Granger causality tests and impulse responses
+
 ## What I'm up to
 
 - 🎓 Starting my Master's in Applied Economics & Finance (2026)
