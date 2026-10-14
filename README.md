@@ -12,7 +12,7 @@ Most recently, I worked as a **Junior Business Analyst at Archtexx Consulting**,
 
 - **Analysis & modelling:** Excel, Gretl (econometrics), financial and economic analysis, benchmarking, market research
 - **Project & process tools:** Jira, Confluence, Teams, PowerPoint, Word
-- **Data & research platforms:** TP Catalyst, D&B Hoovers, EMIS
+- **Data & research platforms:** TP Catalyst, D&B Hoovers, EMIS Next
 - **AI:** Claude for drafting, prompting, and data analysis support
 
 ## Projects
